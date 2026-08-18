@@ -5,6 +5,7 @@ print(1234dsdccdas5)
 lr = 0.001
 batch_size = 16
 app = FastAPI()
+吃吧你吃吧吃吧吃是吧就不上班b n b s
 
 @app.get("/")
 def root():
