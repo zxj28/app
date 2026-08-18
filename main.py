@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 import sys
-
+cd 
 print(1234dsdccdas5)
 lr = 0.001
 batch_size = 16
