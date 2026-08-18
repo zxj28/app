@@ -1,6 +1,8 @@
 from fastapi import FastAPI
 import sys
 
+print(12345)
+
 app = FastAPI()
 
 @app.get("/")
