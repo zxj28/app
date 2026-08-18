@@ -2,7 +2,8 @@ from fastapi import FastAPI
 import sys
 
 print(12345)
-
+lr = 0.001
+batch_size = 16
 app = FastAPI()
 
 @app.get("/")
